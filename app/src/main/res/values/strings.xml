@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">switch3</string>
+    <string name="start">LETS GET STARTED!</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_locn">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>

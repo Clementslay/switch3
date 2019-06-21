@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/op_screen">
+
+
+    <Button
+        android:id="@+id/newswitch1"
+        android:layout_width="88.23sp"
+        android:layout_height="88.23sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="26dp"
+        android:layout_marginEnd="30dp"
+        android:background="@android:color/transparent" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="17dp"
+        android:background="@android:color/transparent" />
+
+
+
+
+
+</RelativeLayout>
